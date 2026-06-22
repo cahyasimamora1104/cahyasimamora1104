@@ -1,4 +1,3 @@
-````md
 # Cahya Christian Ivan Marshall Simamora
 
 <img src="https://i.imgur.com/0YAuaQX.png" width="150" align="right">
