@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Cahya Christian Ivan Marshall Simamora
 
-<img src="https://avatars.githubusercontent.com/u/0?v=4" width="150" align="right">
+<img src="https://i.imgur.com/0YAuaQX.png" width="150" align="right">
 
 ### 🚀 Co-Founder of Phantomic Host
 ### 🤖 Next Gen AI Enthusiast
