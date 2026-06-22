@@ -82,6 +82,3 @@ Building the next generation of hosting infrastructure with performance, reliabi
 ```txt
 Code. Automate. Innovate. Repeat.
 ```
-
-```
-```
