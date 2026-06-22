@@ -12,7 +12,7 @@ Building scalable applications, cloud infrastructure, server automation, AI-powe
 
 ## About Me
 
-I am a Full Stack Developer and Co-Founder of Phantomic Host, focused on cloud infrastructure, hosting automation, server management, and AI-powered technology.
+I am a Full Stack Developer and Founder of Phantomic Host, focused on cloud infrastructure, hosting automation, server management, and AI-powered technology.
 
 Currently exploring Artificial Intelligence, Cloud Computing, DevOps Automation, and modern backend infrastructure.
 
