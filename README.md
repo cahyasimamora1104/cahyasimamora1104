@@ -1,80 +1,88 @@
-# Hi there 👋, I'm Cahya Christian Ivan Marshall Simamora
+````md
+# Cahya Christian Ivan Marshall Simamora
 
 <img src="https://i.imgur.com/0YAuaQX.png" width="150" align="right">
 
-### 🚀 Co-Founder of Phantomic Host
-### 🤖 Next Gen AI Enthusiast
-### 💻 Full Stack Developer
+### Co-Founder of Phantomic Host
+### Next Gen AI Enthusiast
+### Full Stack Developer
 
-Passionate about building scalable applications, cloud infrastructure, server automation, AI-powered solutions, and modern web technologies.
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Co-Founder of **Phantomic Host**
-- 🌱 Exploring **Artificial Intelligence**, **Cloud Computing**, and **Infrastructure Automation**
-- 💻 Full Stack Developer with experience in:
-  - Backend Development
-  - Frontend Development
-  - API Development
-  - Database Management
-  - Server Administration
-  - DevOps & Automation
-- ☁️ Experienced with:
-  - Linux Servers
-  - VPS & Dedicated Servers
-  - Docker
-  - Pterodactyl Panel
-  - Proxmox VE
-  - Minecraft Infrastructure
-- ⚡ Interested in AI, Cybersecurity, Cloud Infrastructure, and Open Source Projects
+Building scalable applications, cloud infrastructure, server automation, AI-powered solutions, and modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I am a Full Stack Developer and Co-Founder of Phantomic Host, focused on cloud infrastructure, hosting automation, server management, and AI-powered technology.
 
-### Frameworks & Technologies
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Currently exploring Artificial Intelligence, Cloud Computing, DevOps Automation, and modern backend infrastructure.
+
+---
+
+## Core Skills
+
+```txt
+Backend Development      API Development
+Frontend Development     Database Management
+Server Administration    DevOps Automation
+Cloud Infrastructure     AI Integration
+````
+
+---
+
+## Technology Stack
+
+### Programming Languages
+
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### Frameworks and Tools
+
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge\&logo=laravel\&logoColor=FF2D20)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-111827?style=for-the-badge\&logo=codeigniter\&logoColor=EF4223)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
 
 ### Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Proxmox](https://img.shields.io/badge/Proxmox-111827?style=for-the-badge\&logo=proxmox\&logoColor=E57000)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-111827?style=for-the-badge)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cahyasimamora1104&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyasimamora1104&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cahyasimamora1104&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cahyasimamora1104&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cahyasimamora1104&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+## Contact
 
-📧 Email: **cofounder@phantomichost.com**
-
-🌐 Website: **https://akira.phantomichost.com**
-
-🐙 GitHub: **https://github.com/cahyasimamora1104**
+**Email:** [cofounder@phantomichost.com](mailto:cofounder@phantomichost.com)
+**GitHub:** https://github.com/cahyasimamora1104
+**Website:** https://akira.phantomichost.com
 
 ---
 
-## 💜 Phantomic Host
+## Phantomic Host
 
 Building the next generation of hosting infrastructure with performance, reliability, and innovation.
 
-> "Code. Automate. Innovate. Repeat."
+```txt
+Code. Automate. Innovate. Repeat.
+```
+
+```
+```
