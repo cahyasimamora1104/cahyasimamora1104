@@ -54,22 +54,6 @@ Passionate about building scalable applications, cloud infrastructure, server au
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 Multi-Function-Bot-Discord
-A powerful Discord bot with various automation and utility features.
-
-### 📊 Phantomic Monitoring
-Real-time VPS & Bare Metal Server Monitoring Dashboard.
-
-### 🛡️ ServerHostingProtector
-Minecraft security plugin supporting multiple versions.
-
-### 💾 Pterodactyl Bash Auto Backup
-Automated backup solution for Pterodactyl servers.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
