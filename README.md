@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/0YAuaQX.png" width="150" align="right">
 
-### Co-Founder of Phantomic Host
+### Founder of Phantomic Host
 ### Next Gen AI Enthusiast
 ### Full Stack Developer
 
